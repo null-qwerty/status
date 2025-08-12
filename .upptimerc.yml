@@ -7,7 +7,6 @@ sites:
     url: https://blog.null-qwerty.work
   - name: 图床
     url: https://images.null-qwerty.work/large_evcg11c.png
-    method: GET
     
 status-website:
   # theme: light
