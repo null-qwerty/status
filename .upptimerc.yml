@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://images.null-qwerty.work/blog/avatar.jpg
   name: status
   introTitle: "**状态面板**"
-  introMessage: ~~今日水逆~~
+  introMessage: "~~今日水逆~~"
   navbar:
     - title: blog
       href: https://blog.null-qwerty.work
