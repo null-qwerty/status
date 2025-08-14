@@ -4,25 +4,27 @@
     "url": "https://blog.null-qwerty.work",
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 552,
     "timeDay": 384,
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "images",
     "url": "https://images.null-qwerty.work/large_evcg11c.png",
     "icon": "https://icons.duckduckgo.com/ip3/images.null-qwerty.work.ico",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 589,
     "timeMonth": 589,
     "timeYear": 589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   }
 ]
