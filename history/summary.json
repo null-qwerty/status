@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 571,
-    "timeDay": 563,
-    "timeWeek": 577,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 566,
+    "timeDay": 550,
+    "timeWeek": 579,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-08-14": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 654,
-    "timeDay": 779,
-    "timeWeek": 662,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 650,
+    "timeDay": 760,
+    "timeWeek": 672,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-08-14": 26
     }
