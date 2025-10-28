@@ -7,6 +7,8 @@ sites:
     url: https://blog.null-qwerty.work
   - name: images
     url: https://images.null-qwerty.work/large_evcg11c.png
+  - name: images-jsdelivr
+    url: https://cdn.jsdelivr.net/gh/null-qwerty/images@main/large_evcg11c.png
 
 status-website:
   theme: light
