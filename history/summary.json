@@ -4,7 +4,7 @@
     "url": "https://blog.null-qwerty.work",
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 866,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2026-02-16": 0,
       "2026-02-14": 28,
       "2026-02-08": 27,
       "2026-02-07": 122,
