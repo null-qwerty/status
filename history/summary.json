@@ -13,7 +13,7 @@
     "time": 828,
     "timeDay": 681,
     "timeWeek": 826,
-    "timeMonth": 880,
+    "timeMonth": 877,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2026-04-19": 55,
@@ -93,7 +93,7 @@
     "time": 819,
     "timeDay": 572,
     "timeWeek": 576,
-    "timeMonth": 635,
+    "timeMonth": 636,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2026-01-06": 147,
@@ -143,19 +143,19 @@
     "url": "https://cdn.jsdelivr.net/gh/null-qwerty/images@main/large_evcg11c.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "images-jsdelivr",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.94%",
     "time": 329,
-    "timeDay": 488,
-    "timeWeek": 374,
-    "timeMonth": 370,
+    "timeDay": 445,
+    "timeWeek": 369,
+    "timeMonth": 371,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-05-12": 0,
+      "2026-05-12": 111,
       "2025-11-14": 46
     }
   }
