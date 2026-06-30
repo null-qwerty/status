@@ -11,7 +11,7 @@
     "uptimeMonth": "97.12%",
     "uptimeYear": "99.22%",
     "time": 861,
-    "timeDay": 762,
+    "timeDay": 781,
     "timeWeek": 865,
     "timeMonth": 1156,
     "timeYear": 861,
@@ -101,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 784,
-    "timeDay": 614,
+    "timeDay": 601,
     "timeWeek": 542,
-    "timeMonth": 565,
+    "timeMonth": 562,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-08-14": 26,
@@ -153,22 +153,22 @@
     "url": "https://cdn.jsdelivr.net/gh/null-qwerty/images@main/large_evcg11c.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "images-jsdelivr",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.86%",
     "time": 391,
-    "timeDay": 360,
-    "timeWeek": 651,
+    "timeDay": 333,
+    "timeWeek": 635,
     "timeMonth": 685,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2025-11-14": 46,
       "2026-05-12": 177,
       "2026-05-13": 230,
-      "2026-06-30": 0
+      "2026-06-30": 51
     }
   }
 ]
