@@ -4,16 +4,16 @@
     "url": "https://blog.null-qwerty.work",
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.26%",
     "time": 923,
-    "timeDay": 1628,
-    "timeWeek": 1537,
-    "timeMonth": 1582,
+    "timeDay": 1484,
+    "timeWeek": 1517,
+    "timeMonth": 1584,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2025-09-01": 16,
@@ -91,7 +91,8 @@
       "2026-08-09": 53,
       "2026-08-08": 6,
       "2026-08-16": 63,
-      "2026-08-19": 35
+      "2026-08-19": 35,
+      "2026-08-22": 0
     }
   },
   {
@@ -108,7 +109,7 @@
     "time": 759,
     "timeDay": 835,
     "timeWeek": 575,
-    "timeMonth": 600,
+    "timeMonth": 601,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-09-01": 15,
@@ -166,7 +167,7 @@
     "time": 389,
     "timeDay": 127,
     "timeWeek": 276,
-    "timeMonth": 392,
+    "timeMonth": 391,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2025-11-14": 46,
