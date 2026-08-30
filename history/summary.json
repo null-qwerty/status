@@ -4,17 +4,17 @@
     "url": "https://blog.null-qwerty.work",
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.20%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "83.20%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.17%",
     "time": 936,
-    "timeDay": 1555,
-    "timeWeek": 1502,
-    "timeMonth": 1690,
-    "timeYear": 955,
+    "timeDay": 1544,
+    "timeWeek": 1495,
+    "timeMonth": 1687,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-09-01": 16,
       "2025-09-02": 19,
@@ -96,7 +96,7 @@
       "2026-08-23": 96,
       "2026-08-24": 23,
       "2026-08-25": 110,
-      "2026-08-30": 92
+      "2026-08-30": 242
     }
   },
   {
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 758,
-    "timeDay": 765,
-    "timeWeek": 689,
+    "timeDay": 793,
+    "timeWeek": 681,
     "timeMonth": 630,
     "timeYear": 765,
     "dailyMinutesDown": {
@@ -169,8 +169,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 388,
-    "timeDay": 293,
-    "timeWeek": 396,
+    "timeDay": 366,
+    "timeWeek": 411,
     "timeMonth": 367,
     "timeYear": 388,
     "dailyMinutesDown": {
