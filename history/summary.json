@@ -4,17 +4,17 @@
     "url": "https://blog.null-qwerty.work",
     "icon": "https://icons.duckduckgo.com/ip3/blog.null-qwerty.work.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.16%",
-    "time": 984,
-    "timeDay": 2019,
-    "timeWeek": 1724,
-    "timeMonth": 1697,
-    "timeYear": 1023,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.14%",
+    "time": 985,
+    "timeDay": 1993,
+    "timeWeek": 1731,
+    "timeMonth": 1701,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2025-09-25": 24,
       "2025-09-27": 28,
@@ -90,7 +90,7 @@
       "2026-08-25": 110,
       "2026-08-30": 242,
       "2026-08-31": 203,
-      "2026-09-19": 22
+      "2026-09-19": 165
     }
   },
   {
@@ -107,8 +107,8 @@
     "time": 760,
     "timeDay": 657,
     "timeWeek": 768,
-    "timeMonth": 743,
-    "timeYear": 765,
+    "timeMonth": 745,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2025-09-25": 23,
       "2025-09-27": 27,
@@ -157,7 +157,7 @@
     "time": 407,
     "timeDay": 636,
     "timeWeek": 607,
-    "timeMonth": 587,
+    "timeMonth": 592,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-11-14": 46,
