@@ -125,23 +125,23 @@
     "url": "https://cdn.jsdelivr.net/gh/null-qwerty/images@main/large_evcg11c.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "images-jsdelivr",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.88%",
     "time": 424,
-    "timeDay": 60,
-    "timeWeek": 601,
-    "timeMonth": 961,
+    "timeDay": 473,
+    "timeWeek": 678,
+    "timeMonth": 971,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-11-14": 46,
       "2026-05-12": 177,
       "2026-05-13": 230,
       "2026-06-30": 51,
-      "2026-10-24": 0
+      "2026-10-24": 142
     }
   }
 ]
