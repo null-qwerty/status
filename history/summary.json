@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
-    "time": 1064,
-    "timeDay": 1236,
-    "timeWeek": 1575,
-    "timeMonth": 1858,
+    "time": 1065,
+    "timeDay": 1251,
+    "timeWeek": 1529,
+    "timeMonth": 1839,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-11-10": 16,
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 758,
-    "timeDay": 864,
-    "timeWeek": 596,
-    "timeMonth": 738,
-    "timeYear": 742,
+    "timeDay": 1072,
+    "timeWeek": 664,
+    "timeMonth": 749,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2025-11-10": 15,
       "2025-11-18": 24,
@@ -119,16 +119,16 @@
     "url": "https://cdn.jsdelivr.net/gh/null-qwerty/images@main/large_evcg11c.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "images-jsdelivr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.06%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.84%",
     "time": 425,
-    "timeDay": 1879,
-    "timeWeek": 620,
-    "timeMonth": 804,
+    "timeDay": 45,
+    "timeWeek": 556,
+    "timeMonth": 783,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-11-14": 46,
@@ -136,7 +136,8 @@
       "2026-05-13": 230,
       "2026-06-30": 51,
       "2026-10-24": 142,
-      "2026-10-31": 196
+      "2026-10-31": 196,
+      "2026-11-05": 0
     }
   }
 ]
